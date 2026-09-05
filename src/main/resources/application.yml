@@ -3,7 +3,7 @@ spring:
     name: real-estate-marketplace
 
   datasource:
-    url: jdbc:postgresql://localhost:5432/realestate
+    url: jdbc:postgresql://realestate-postgres:5432/realestate
     username: realestate
     password: realestate
 
